@@ -1,9 +1,8 @@
-baseURL = "/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-ink"
-
-
+title = "Ink"
+theme = "ink"
+paginate = 5
 
 copyright = "© Copyright notice"
 
@@ -11,7 +10,7 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
