@@ -43,14 +43,15 @@ $brew install hugo
 The above installation may take sometime. Make sure you have proper internet connectivity. Slow internet may result in instalation failure.
 
 
-The following error may occur, if the internet connectivity is slow.
-
+<details>
+  <summary>Errors may occur, if the internet connectivity is slow.</summary>
 remote: Enumerating objects: 353411, done. 
 error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
 fatal: The remote end hung up unexpectedly
 fatal: early EOF
 fatal: index-pack failed
 Failed during: git fetch origin master:refs/remotes/origin/master -n
+</details>
 
 
 If hugo installation is completed, we can start creating new site.
@@ -61,6 +62,8 @@ It will create a hugo site under the folder blog.
 
 
 Now add theme & contents!!!
+
+(Themes can be downloaded from https://themes.gohugo.io/)
 
 If you face any issue during installation, please comment the details in the below section.
 
