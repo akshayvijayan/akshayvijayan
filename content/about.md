@@ -5,3 +5,7 @@ type: "page"
 ---
 
 This is some static page where you can write about yourself.
+This is some static page where you can write about yourself.
+This is some static page where you can write about yourself.
+This is some static page where you can write about yourself.
+This is some static page where you can write about yourself.
