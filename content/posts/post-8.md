@@ -23,6 +23,13 @@ $sudo apt install linuxbrew-wrapper
 ```
 Linubrew is a package manager which is now known as Homebrew. For more details check [documentation](https://docs.brew.sh/Homebrew-on-Linux).
 
+Add Linuxbrew to your ~/.bash_profile by running
+```
+    echo 'export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"' >>~/.bash_profile
+    echo 'export MANPATH="/home/linuxbrew/.linuxbrew/share/man:$MANPATH"' >>~/.bash_profile
+    echo 'export INFOPATH="/home/linuxbrew/.linuxbrew/share/info:$INFOPATH"' >>~/.bash_profile
+```
+
 Now we can install hugo using brew. 
 ```
 $brew install hugo   
@@ -31,14 +38,13 @@ The above installation may take sometime. Make sure you have proper internet con
 
 #### Blockquote without attribution
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
- 
->remote: Enumerating objects: 353411, done.
->error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
->fatal: The remote end hung up unexpectedly
->fatal: early EOF
->fatal: index-pack failed
->Failed during: git fetch origin master:refs/remotes/origin/master -n
+remote: Enumerating objects: 353411, done.
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: The remote end hung up unexpectedly
+fatal: early EOF
+fatal: index-pack failed
+Failed during: git fetch origin master:refs/remotes/origin/master -n
+
 # H1
 ## H2
 ### H3
@@ -48,6 +54,7 @@ The above installation may take sometime. Make sure you have proper internet con
 
 ## Paragraph
 
+On successful completion of Hugo installation 
 Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
 
 Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
