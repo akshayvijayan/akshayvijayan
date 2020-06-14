@@ -63,8 +63,7 @@ hugo new site blog
 It will create a hugo site under the folder blog.
 
 
-Now add theme & contents!!!
-
+Now add theme & contents!!
 
 
 
