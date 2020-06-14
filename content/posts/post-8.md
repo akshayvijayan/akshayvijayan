@@ -19,9 +19,26 @@ In command propmt type
 #### Code block with backticks
 
 ```
-$sudo apt install linuxbrew-wrapper. For more details check [documentation](https://docs.brew.sh/Homebrew-on-Linux)
+$sudo apt install linuxbrew-wrapper 
 ```
-Linubrew is a package manager which is now known as Homebrew
+Linubrew is a package manager which is now known as Homebrew. For more details check [documentation](https://docs.brew.sh/Homebrew-on-Linux).
+
+Now we can install hugo using brew. 
+```
+$brew install hugo   
+```
+The above installation may take sometime. Make sure you have proper internet connectivity. Slow internet may result in instalation failure.
+
+#### Blockquote without attribution
+
+> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+ 
+>remote: Enumerating objects: 353411, done.
+>error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+>fatal: The remote end hung up unexpectedly
+>fatal: early EOF
+>fatal: index-pack failed
+>Failed during: git fetch origin master:refs/remotes/origin/master -n
 # H1
 ## H2
 ### H3
