@@ -12,6 +12,7 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 ## Headings
 <script data-ad-client="ca-pub-9770552734505179" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
+<script data-ad-client="ca-pub-9770552734505179" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
