@@ -1,5 +1,5 @@
 ---
-title: "Markdown Syntax Guide 2"
+title: "How to install Hugo on linux"
 date: "2020-06-14"
 description: "Complete steps to install Hugo on Linux"
 tags: [technology, hugo, linux]
@@ -19,9 +19,9 @@ In command propmt type
 #### Code block with backticks
 
 ```
-$sudo apt install linuxbrew-wrapper 
+$sudo apt install linuxbrew-wrapper. For more details check [documentation](https://docs.brew.sh/Homebrew-on-Linux)
 ```
-
+Linubrew is a package manager which is now known as Homebrew
 # H1
 ## H2
 ### H3
