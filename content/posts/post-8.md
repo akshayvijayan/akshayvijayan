@@ -1,12 +1,12 @@
 ---
 title: "Markdown Syntax Guide 2"
-date: "2019-03-11"
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags: [markdown, css, html, themes]
+date: "2020-06-14"
+description: "Complete steps to install Hugo on Linux"
+tags: [technology, hugo, linux]
 categories: [themes, syntax]
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Hugo is a powerful platform which simple to use. Using Hugo we can design portfolios, blogs etc. Here are the steps that you need to complete to setup a hugo website. I have faced issues while installing Hugo on my LXLE linux 18.04.3 and that is the reason why I have written an article on how to do it properly.
 <!--more-->
 
 ## Headings
@@ -14,7 +14,13 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 <script data-ad-client="ca-pub-9770552734505179" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+In command propmt type
+
+#### Code block with backticks
+
+```
+$sudo apt install linuxbrew-wrapper 
+```
 
 # H1
 ## H2
