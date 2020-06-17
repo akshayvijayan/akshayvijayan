@@ -32,6 +32,14 @@ Add the following A records as shown below:
 
 Now add CNAME as shown in error image (1):
 
+For example
+
+| Type	| Name  		  | Value 		                            |
+| ------|:---------------:| ---------------------------------------:|
+| CNAME | www 			  |  ghs.google.com                         |
+| CANME | hhgnqw2o63c3    |  gv-jorkv3bpltbxs3.dv2.googlehosted.com |
+
+> :warning:Don't add the value displayed here. It will be different for different sites. Add the value displayed in your blogger platform (Refer error image 1)
 
 
 And who would we be if we didn’t have that fear?
