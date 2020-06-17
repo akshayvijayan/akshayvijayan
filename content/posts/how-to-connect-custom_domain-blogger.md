@@ -4,11 +4,11 @@ date: 2018-03-18T12:13:30+05:30
 tags: [Space]
 ---
 
-Blogger is a easy platform for blogging which doesn't requires any technical skill. Usually a blog started in blogger will have an address which ends with .blogspot.com. We can change this domain to a custom domain which we like to use for the blog(We need to purchase domain from any of the service provider. Google al. so provides domain service)
+Blogger is a easy platform for blogging which doesn't requires any technical skill. Usually a blog started in blogger will have an address which ends with .blogspot.com. We can change this domain to a custom domain which we like to use for the blog(We need to purchase domain from any of the service provider. Google also provides domain service)
 
 After buying a domain, log into blogger.com using profile. Navigate to settings which is seen on the left menu bar. 
 
-![Custom Domain](Images/blogger_custom_domain.png)
+![Custom Domain](/Images/blogger_custom_domain.png)
 
 In that there will be a option "Custom Domain". Click on the same. 
 
