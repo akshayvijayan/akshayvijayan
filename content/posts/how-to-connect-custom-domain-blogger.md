@@ -13,8 +13,10 @@ Click on the option "Custom Domain"
 
 Now enter your domain & click on save. Most probabily the following error will come.
 
+
+--------------------------Error image (1)-----------------------------------
 ![Custom Domain](/img/blogger_domain_mapping.png)
-				Error image (1)
+				
 
 Log into the domain service provider's website, and move to DNS settings.
 ![DNS settings](/img/cname_blogger.png)
