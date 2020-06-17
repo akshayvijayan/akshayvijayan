@@ -42,7 +42,7 @@ For example
 
 
 
-:exclamation:Don't add the value displayed here. It will be different for different sites. Add the value displayed in your blogger platform (Refer error image 1)
+`:exclamation:` |Don't add the value displayed here. It will be different for different sites. Add the value displayed in your blogger platform (Refer error image 1)
 
 
 If the following error is occuring while adding CNAME, then edit already existing CNAME record in the DNS list and update with your value. (There is some limit for the number of CNAME records in DNS)
