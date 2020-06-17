@@ -8,9 +8,9 @@ Blogger is a easy platform for blogging which doesn't requires any technical ski
 
 After buying a domain, log into blogger.com using profile. Navigate to settings which is seen on the left menu bar. 
 
-![Custom Domain](/Images/blogger_custom_domain.png)
+![Custom Domain](https://github.com/akshayvijayan/akshayvijayan/tree/master/content/posts/Images/blogger_custom_domain.png)
 
-In that there will be a option "Custom Domain". Click on the same. 
+Click on the option "Custom Domain".
 
 We run from silence. We run from the spaces between tasks and appointments. We run from solitude and stillness. We try to fill every second with activity, with something useful, as if silence and space are not valuable.
 
