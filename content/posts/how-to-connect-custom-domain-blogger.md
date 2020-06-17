@@ -1,6 +1,6 @@
 ---
 title: "How to map custom domain to Blogger"
-date: 2020-06-17T12:13:30+05:30
+date: 2020-06-16T12:13:30+05:30
 tags: [Space]
 ---
 
@@ -15,6 +15,7 @@ Click on the option "Custom Domain".
 Now enter your domain & click on save. Most probabily the following error will come.
 
 ![Blogger custom domain error.](https://photos.app.goo.gl/FrtxvuFgkSx9gr439)
+{{< figure src="https://photos.app.goo.gl/FrtxvuFgkSx9gr439" title="Dave Herring" >}}
 
 But what are we afraid of?
 
