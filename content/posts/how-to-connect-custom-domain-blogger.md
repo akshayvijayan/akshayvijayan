@@ -15,7 +15,7 @@ Click on the option "Custom Domain".
 Now enter your domain & click on save. Most probabily the following error will come.
 
 ![Blogger custom domain error.](https://photos.app.goo.gl/FrtxvuFgkSx9gr439)
-{{< figure src="https://photos.app.goo.gl/FrtxvuFgkSx9gr439" title="Dave Herring" >}}
+{{< figure src="https://photos.google.com/share/AF1QipM4mkgIADtn1NI-aswajcwS_Nk7EaWu2OYTbpca8Bs2rsx264WetlHDYVkAZ3iPow/photo/AF1QipMMWIGsGoZIKPQxB7j4eTcjdl-Pqau-Puw4-c7A?key=aS1ReXhZNnhuQVFIQWo3TV9Kc1U2UVlCV0NPeWRB" title="Dave Herringss" >}}
 
 But what are we afraid of?
 
