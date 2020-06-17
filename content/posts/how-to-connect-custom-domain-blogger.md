@@ -39,30 +39,17 @@ For example
 | CNAME | www 			  |  ghs.google.com                         |
 | CANME | hhgnqw2o63c3    |  gv-jorkv3bpltbxs3.dv2.googlehosted.com |
 
+
+
 >Don't add the value displayed here. It will be different for different sites. Add the value displayed in your blogger platform (Refer error image 1)
 
 
-And who would we be if we didn’t have that fear?
+If the following error is occuring while adding CNAME, then edit already existing CNAME record in the DNS list and update with your value. (There is some limit for the number of CNAME records in DNS)
 
-We’re afraid of space and stillness and silence because it highlights the uncertainty, instability, groundlessness, insecurity, shakiness that lie underneath every second of our lives. We’re afraid of having to face this instability and uncertainty, of having to feel the fear of it.
+```
+There was an error processing your request. Please try again. If this issue continues, contact support.
+```
 
-Without the fear of all of the uncertainty that is highlighted by space … we become free.
+Now you have successfully connected your blogger platfform with your custom domain. 
 
-I know in my life, when I allow myself to have stillness, silence, solitude, simplicity and space … it leaves room to face whatever is coming up for me. It gives me room to fully feel any feelings that I’ve been avoiding. It allows me to be more honest with myself, instead of using distractions and busyness to cover up what I don’t want to see.
-
-And in the end, I develop trust that the space is not something to be feared, but rather something to be treasured. A gift, filled with learning and not knowing and shakiness and beauty.
-
-You might try allowing more space to be in your day, without filling it:
-
-* Take some time between tasks for stillness.
-* Sit out in nature, in silence, without technology.
-* When you notice yourself reaching for your phone, pause. See if you can just be still, just savor some space.
-* When you feel uncertainty or instability in your life (hint: it’s always there), let yourself feel it. Be present with it, without needing to run or avoid.
-* When you feel fear, be open-hearted with it and allow yourself fully feel it, being friendly with it. Your relationship with fear will change if you become friendly with it.
-* Do less, and trust that things won’t fall apart. Or if they do fall apart, you can be present with that instability.
-* When you’re in line, driving, eating, walking, exercising … see if you can do those things in silence, without technology, without needing to do something “useful.” Find the value in these spaces.
-* Notice who you are without the fear of space.
-
-Savor these spaces, their deliciousness. Savor the groundlessness, as something filled with freedom if we learn not to fear it. Be present with the fear and uncertainty, as good friends not as enemies.
-
-Let your heart be open raw tender and vulnerable, and your mind embracing the spaciousness of the vast blue sky of open awareness.
+Happy Blogging!
