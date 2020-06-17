@@ -1,7 +1,7 @@
 ---
 title: "How to map custom domain to Blogger"
-date: 2018-03-18T12:13:30+05:30
-tags: [Space]
+date: 2020-06-17T12:13:30+05:30
+tags: [Blogger]
 ---
 
 Blogger is a easy platform for blogging which doesn't requires any technical skill. Usually a blog started in blogger will have an address which ends with .blogspot.com. We can change this domain to a custom domain which we like to use for the blog(We need to purchase domain from any of the service provider. Google also provides domain service)
@@ -14,9 +14,9 @@ Click on the option "Custom Domain".
 
 Now enter your domain & click on save. Most probabily the following error will come.
 
-![Blogger custom domain error](https://github.com/akshayvijayan/ImagesBlog/blob/master/blogger_domain_mapping.png)
+![Blogger custom domain error](https://raw.githubusercontent.com/akshayvijayan/ImagesBlog/master/blogger_domain_mapping.png)
 
-But what are we afraid of?
+But what are we afraid of???
 
 And who would we be if we didn’t have that fear?
 
