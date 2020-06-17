@@ -14,6 +14,7 @@ Click on the option "Custom Domain"
 Now enter your domain & click on save. Most probabily the following error will come.
 
 ![Custom Domain](/img/blogger_domain_mapping.png)
+				Error image (1)
 
 Log into the domain service provider's website, and move to DNS settings.
 ![DNS settings](/img/cname_blogger.png)
@@ -27,6 +28,11 @@ Add the following A records as shown below:
 | A     | @     |  216.239.34.21 |
 | A     | @     |  216.239.36.21 |
 | A     | @     |  216.239.38.21 |
+
+
+Now add CNAME as shown in error image (1):
+
+
 
 And who would we be if we didn’t have that fear?
 
