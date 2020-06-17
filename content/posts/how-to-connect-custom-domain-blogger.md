@@ -11,10 +11,8 @@ After buying a domain, log into blogger.com using profile. Navigate to settings 
 Click on the option "Custom Domain"
 ![Custom Domain](/img/blogger_custom_domain.png)
 
-Now enter your domain & click on save. Most probabily the following error will come.
+Now enter your domain & click on save. Most probabily the following error(Error image 1) will come.
 
-
---------------------------Error image (1)-----------------------------------
 ![Custom Domain](/img/blogger_domain_mapping.png)
 				
 
@@ -41,7 +39,7 @@ For example
 | CNAME | www 			  |  ghs.google.com                         |
 | CANME | hhgnqw2o63c3    |  gv-jorkv3bpltbxs3.dv2.googlehosted.com |
 
-> :warning:Don't add the value displayed here. It will be different for different sites. Add the value displayed in your blogger platform (Refer error image 1)
+>Don't add the value displayed here. It will be different for different sites. Add the value displayed in your blogger platform (Refer error image 1)
 
 
 And who would we be if we didn’t have that fear?
