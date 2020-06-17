@@ -1,7 +1,8 @@
 ---
-title: "How to map custom domain to Blogger"
+title: "How to map custom domain to Blogger platform"
 date: 2020-06-16T12:13:30+05:30
-tags: [Space]
+tags: [blogger, domain]
+categories: [Technology]
 ---
 
 Blogger is a easy platform for blogging which doesn't requires any technical skill. Usually a blog started in blogger will have an address which ends with .blogspot.com. We can change this domain to a custom domain which we like to use for the blog(We need to purchase domain from any of the service provider. Google also provides domain service)
