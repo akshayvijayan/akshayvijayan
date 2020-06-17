@@ -8,16 +8,25 @@ Blogger is a easy platform for blogging which doesn't requires any technical ski
 
 After buying a domain, log into blogger.com using profile. Navigate to settings which is seen on the left menu bar. 
 
+Click on the option "Custom Domain"
 ![Custom Domain](/img/blogger_custom_domain.png)
-
-Click on the option "Custom Domain".
 
 Now enter your domain & click on save. Most probabily the following error will come.
 
-![Blogger custom domain error.](https://photos.app.goo.gl/FrtxvuFgkSx9gr439)
-{{< figure src="https://photos.google.com/share/AF1QipM4mkgIADtn1NI-aswajcwS_Nk7EaWu2OYTbpca8Bs2rsx264WetlHDYVkAZ3iPow/photo/AF1QipMMWIGsGoZIKPQxB7j4eTcjdl-Pqau-Puw4-c7A?key=aS1ReXhZNnhuQVFIQWo3TV9Kc1U2UVlCV0NPeWRB" title="Dave Herringss" >}}
+![Custom Domain](/img/blogger_domain_mapping.png)
 
-But what are we afraid of?
+Log into the domain service provider's website, and move to DNS settings.
+![DNS settings](/img/cname_blogger.png)
+
+Add the following A records as shown below:
+
+
+| Type	| Name  | Value 		 |
+| ------|:-----:| --------------:|
+| A     | @ 	|  216.239.32.21 |
+| A     | @     |  216.239.34.21 |
+| A     | @     |  216.239.36.21 |
+| A     | @     |  216.239.38.21 |
 
 And who would we be if we didn’t have that fear?
 
