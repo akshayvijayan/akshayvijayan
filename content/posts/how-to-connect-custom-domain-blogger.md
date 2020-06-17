@@ -8,7 +8,7 @@ Blogger is a easy platform for blogging which doesn't requires any technical ski
 
 After buying a domain, log into blogger.com using profile. Navigate to settings which is seen on the left menu bar. 
 
-![Custom Domain](https://github.com/akshayvijayan/ImagesBlog/blob/master/blogger_custom_domain.png)
+![Custom Domains](img/blogger_custom_domain.png)
 
 Click on the option "Custom Domain".
 
