@@ -1,9 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Thoughts"
-theme = "hugo-ink"
-
-
+theme = "devise"
 
 copyright = "© Copyright notice"
 
