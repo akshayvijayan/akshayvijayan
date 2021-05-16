@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Thoughts"
-theme = "devise"
+theme = "hugo-PaperMod"
 
 copyright = "© Copyright notice"
 
